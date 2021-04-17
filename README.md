@@ -1,0 +1,3 @@
+# Osu!-cli
+
+> Archive and restore your config, songs and skins...
